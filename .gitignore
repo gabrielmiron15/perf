@@ -1,0 +1,11 @@
+routes.php
+schedule-*
+compiled.php
+services.json
+events.scanned.php
+routes.scanned.php
+down
+/bower_components/
+/node_modules/
+/vendor/
+/.idea/
